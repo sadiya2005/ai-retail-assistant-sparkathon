@@ -1,5 +1,5 @@
 # AI-Powered Retail Assistant 🛍️
-**Project for Walmart Sparkathon & Flipkart Grid 7.0 | In Progress**
+**Project for Walmart Sparkathon| In Progress**
 
 ## 🚀 Overview
 An AI-powered shopping assistant designed to elevate the customer experience both online and in-store. Built using NLP, recommendation systems, and intelligent query handling to create a seamless, personalized, and engaging retail journey.
