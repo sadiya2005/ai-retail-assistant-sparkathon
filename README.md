@@ -1,37 +1,74 @@
-# AI-Powered Retail Assistant 🛍️
-**Project for Walmart Sparkathon| In Progress**
+# 🛍️ AI-Powered Retail Assistant  
+*Walmart Sparkathon & Flipkart Grid 7.0 Submission | In Progress*
 
-## 🚀 Overview
-An AI-powered shopping assistant designed to elevate the customer experience both online and in-store. Built using NLP, recommendation systems, and intelligent query handling to create a seamless, personalized, and engaging retail journey.
+An AI-driven virtual assistant designed to revolutionize retail customer experience across online and offline channels. Our solution combines Natural Language Processing, personalized recommendations, and real-time inventory awareness to make shopping intuitive, intelligent, and human-like.
 
-## 🎯 Key Features (Planned)
-- 🤖 Voice & text-based customer interaction
-- 📦 Real-time product recommendations
-- 🧠 Context-aware query resolution (e.g., "Show me something like what I bought last month")
-- 📍 Integration with inventory and store locator APIs
-- 💬 Chat UI with React.js frontend and Node.js backend
+---
+
+## 🚀 Project Goal  
+To build an **AI assistant** that enhances customer engagement by:  
+- Understanding **natural language queries**  
+- Offering **smart, personalized product suggestions**  
+- Bridging the **gap between physical and digital stores**  
+
+---
+
+## 🎯 Key Features (In Progress)
+- 🧠 **Conversational AI Interface** – Voice & text support for seamless interaction  
+- 📦 **Personalized Recommendations** – Based on past behavior, trends, and preferences  
+- 🔄 **Real-Time Inventory Integration** – Avoids suggesting out-of-stock items  
+- 🛒 **Smart Cart Suggestions** – Suggests add-ons, combos, or alternatives  
+- 📍 **Store Locator + Online Sync** – Unified experience across platforms  
+
+---
 
 ## 🛠️ Tech Stack
-- Frontend: React.js, Tailwind CSS  
-- Backend: Node.js, Express.js  
-- AI: OpenAI API / Custom NLP  
-- Database: MongoDB / Firebase (TBD)  
-- Deployment: Render / Vercel / Netlify
 
-## 📂 Folder Structure (Coming Soon)
-- `/frontend` — React app for assistant UI
-- `/backend` — Node.js server for logic, AI calls
-- `/docs` — Architecture diagrams and research
+| Layer         | Tools / Frameworks              |
+|---------------|-------------------------------|
+| **Frontend**  | React.js, Tailwind CSS, Framer Motion |
+| **Backend**   | Node.js, Express.js            |
+| **AI/NLP**    | OpenAI GPT API / Custom NLP Model |
+| **Database**  | MongoDB / Firebase (TBD)       |
+| **Deployment**| Render / Netlify / Vercel      |
 
-## 📅 Timeline
-- Week 1: Project planning, frontend UI setup ✅  
-- Week 2: Backend scaffolding & chatbot API integration 🔄  
-- Week 3: Testing, polish, and final submission 🚀
+---
 
-## 📌 Status
-Project is currently under active development for Flipkart Grid 7.0 and Walmart Sparkathon.  
-Stay tuned for feature updates and demo links!
+---
 
-## 🔗 Connect
-Made by [Your Name] | [LinkedIn Profile] | [Email]
+## 📅 Development Timeline
+
+| Week | Milestone                                      |
+|------|------------------------------------------------|
+| 1    | UI wireframes, tech stack setup ✅             |
+| 2    | Chat UI, backend APIs, GPT/NLP integration 🔄 |
+| 3    | Product recommendation engine, store sync     |
+| 4    | Testing, polish, and demo submission 🚀        |
+
+---
+
+## 📌 Current Status: `🚧 In Progress`  
+We are actively developing and testing the first phase of the assistant. The repo will be updated regularly with working modules, API endpoints, and UI enhancements.
+
+---
+
+## 📸 Sneak Peek  
+> UI wireframes, sample queries, and early-stage screenshots coming soon.
+
+---
+
+## 🤝 Team  
+Built with ❤️ by passionate engineers for **Walmart Sparkathon** :
+shaik sadiya sheeraj]
+
+---
+
+## 📎 Useful Links  
+- 🔗 Live Demo (Coming Soon)  
+- 📄 Submission Deck / Documentation (To be uploaded)  
+- 🔗 
+---
+
+> 💡 *Innovating the retail journey — one intelligent conversation at a time.*
+
 
